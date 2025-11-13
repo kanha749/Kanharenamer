@@ -7,9 +7,9 @@ from pyrogram.errors import FloodWait
 # -----------------------------
 #  EDIT YOUR CREDENTIALS HERE
 # -----------------------------
-API_ID = 21302239
-API_HASH = "1560930c983fbca6a1fcc8eab760d40d"
-BOT_TOKEN = "8257399725:AAG278Z_ndrdWgxTQuu7DQugXaoCdf1xW0M"
+API_ID = 
+API_HASH = ""
+BOT_TOKEN = ""
 
 # -----------------------------
 # OPTIONAL SETTINGS
