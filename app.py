@@ -3,9 +3,9 @@ import ffmpeg
 from pyrogram import Client, filters
 from keepalive import keep_alive
 
-API_ID = int(os.getenv("API_ID"))
-API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+API_ID = int(os.getenv("21302239"))
+API_HASH = os.getenv("1560930c983fbca6a1fcc8eab760d40d")
+BOT_TOKEN = os.getenv("8257399725:AAG278Z_ndrdWgxTQuu7DQugXaoCdf1xW0M")
 
 app = Client("WebRenamerThumb", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
